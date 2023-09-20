@@ -8,7 +8,7 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Duration** - One Month ( september-2023 )
 - **Internship Type** - Work from Home
 
-In this internship, we were provided a total of 6 Tasks and I was able to successfully complete all the 6 tasks within the given time-frame.
+In this internship, I was assigned a total of 8 Tasks and I was able to successfully complete all the 8 tasks within the given time-frame.
 
 
 
@@ -25,22 +25,39 @@ _Please click on the images on right side to view my solution._
 
 ### # Task-2 : Prediction using Unsupervised ML (Level - Beginner)
 
-
 1. From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 1. Use R or Python or perform this task.
 1. Data can be found at [https://bit.ly/3cGyP8j](https://bit.ly/3cGyP8j)
+   
+### # Task-3: Exploratory Data analysis-Retail(Level- Intermediate)
+  
+1. Perform  Exploratory Data analysis on dataset 'SampleSuperstore'
+1. As a Business Manager try to find out the areas where you can work to make more profit.
+2. Can use any R/Python/PowerBI/Tablue/SAS/SAP to perform this task.
+1. Data can be found at [https://bit.ly/3i4rbWl](https://bit.ly/3i4rbWl)
 
+   
+### # Task-4 : Exploratory Data analysis-Terrorism(Level- Intermediate)
+ 1. Perform  Exploratory Data analysis on dataset 'Global Terrorism'
+ 1. As a Security/defence analyst try to find out hot zone of Terrorism.
+ 2. What all security issues and insight you can derive by EDA
+ 3. Can use any R/Python/PowerBI/Tablue/SAS/SAP to perform this task.
+ 1. Data can be found at [https://bit.ly/2TK5Xn5](https://bit.ly/2TK5Xn5)
 
-### # Task-3 : Prediction using Decision Tree Algorithm(Level - Intermediate)
+### # Task-4 : Exploratory Data analysis-Sports(Level- Intermediate)
+ 1. Perform  Exploratory Data analysis on dataset 'Indian Premier League'
+ 1. As a Sports analyst find out most successful teams, players, factors contributing to win or loss of a team.
+ 2. Suggest teams or players a company should endorse for it's product.
+ 3. Can use any R/Python/PowerBI/Tablue/Excel/SAS/SAP to perform this task.
+ 1. Data can be found at [https://bit.ly/34SRn3b](https://bit.ly/34SRn3b)
 
+### # Task-5 : Prediction using Decision Tree Algorithm(Level - Intermediate)
 
 1. For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
 1. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 1. Data can be found at [https://bit.ly/3kXTdox](https://bit.ly/3kXTdox)
 
-### # Task-4 : Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
-
-
+### # Task-6 : Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
 
 1. Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines.
 1. Stock to analyze and predict SENSEX (S&P BSE SENSEX)
@@ -48,10 +65,7 @@ _Please click on the images on right side to view my solution._
 1. Download textual (news) data from [https://bit.ly/36fFPI6](https://bit.ly/36fFPI6)
 1. Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model.
 
-
-
-### # Task-5 : To Explore Business Analytics (Level - Beginner & Intermediate)
-
+### # Task-7 : To Explore Business Analytics (Level - Beginner & Intermediate)
 
 1. Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
 1. As a business manager, try to find out the weak areas where you can work to make more profit.
@@ -60,10 +74,7 @@ _Please click on the images on right side to view my solution._
 1. Dataset link :[https://bit.ly/3i4rbWl](https://bit.ly/3i4rbWl)
 1. Create storyboards. Screen record along with your audio explaining the charts and interpretations.
 
-
-
-### # Task-6 : Timeline Analysis : Covid-19 (Level - Advanced)
-
+### # Task-8 : Timeline Analysis : Covid-19 (Level - Advanced)
 
 1. Create a storyboard showing spread of Covid 19 cases in your country or any region (Asia, Europe, BRICS etc)
 1. Use animation, timeline and annotations to create attractive and interactive dashboards and story
